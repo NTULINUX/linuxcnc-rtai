@@ -9,7 +9,9 @@ build-stamp
 *.pdf
 *.tex
 *.mod.c
+*.mod
 *.cmd
+*~
 .tmp*
 # Ignore generated html files, 
 /docs/src/*/*.html
