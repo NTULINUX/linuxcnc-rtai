@@ -9,7 +9,6 @@ build-stamp
 *.pdf
 *.tex
 *.mod.c
-*.mod
 *.cmd
 *~
 .tmp*
